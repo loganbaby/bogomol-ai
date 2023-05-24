@@ -1,4 +1,4 @@
 revChatGPT
-pyrogram
+aiogram
 tgcrypto
 flask
